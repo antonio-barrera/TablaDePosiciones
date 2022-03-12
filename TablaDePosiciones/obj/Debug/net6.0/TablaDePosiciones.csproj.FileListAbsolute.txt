@@ -1,0 +1,34 @@
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\bin\Debug\net6.0\TablaDePosiciones.exe
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\bin\Debug\net6.0\TablaDePosiciones.deps.json
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\bin\Debug\net6.0\TablaDePosiciones.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\bin\Debug\net6.0\TablaDePosiciones.dll
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\bin\Debug\net6.0\ref\TablaDePosiciones.dll
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\bin\Debug\net6.0\TablaDePosiciones.pdb
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.csproj.AssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.dll
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\ref\TablaDePosiciones.dll
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.pdb
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.genruntimeconfig.cache
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\Proyecto1\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.csproj.CopyComplete
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\bin\Debug\net6.0\TablaDePosiciones.exe
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\bin\Debug\net6.0\TablaDePosiciones.deps.json
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\bin\Debug\net6.0\TablaDePosiciones.runtimeconfig.json
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\bin\Debug\net6.0\TablaDePosiciones.dll
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\bin\Debug\net6.0\ref\TablaDePosiciones.dll
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\bin\Debug\net6.0\TablaDePosiciones.pdb
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.csproj.AssemblyReference.cache
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.AssemblyInfoInputs.cache
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.AssemblyInfo.cs
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.csproj.CoreCompileInputs.cache
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.csproj.CopyComplete
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.dll
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\ref\TablaDePosiciones.dll
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.pdb
+C:\Users\jeant\source\repos\TablaDePosiciones\TablaDePosiciones\obj\Debug\net6.0\TablaDePosiciones.genruntimeconfig.cache

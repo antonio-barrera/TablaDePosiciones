@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kwyiBwh5GBISaB2k3qrgWB5MfSZCWBKXh+ChfDM9P0MtZUBpEykLRLux0HHb7wBS4d7F7D0Wn48JiBDVT2fgtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeant\\source\\repos\\TablaDePosiciones\\TablaDePosiciones\\TablaDePosiciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeant\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
